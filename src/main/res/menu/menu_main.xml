@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.smj.chatapp.MainActivity">
+    <item
+        android:id="@+id/main_settings_btn"
+        android:orderInCategory="100"
+        android:title="Account Settings" />
+    <item
+        android:id="@+id/main_all_btn"
+        android:orderInCategory="101"
+        android:title="All Users" />
+    <item
+        android:id="@+id/main_logout_btn"
+        android:orderInCategory="102"
+        android:title="@string/log_out"
+         />
+</menu>

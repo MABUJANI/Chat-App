@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chatapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="need_a_new_account">need a new account?</string>
+    <string name="create_account">create account</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_there_i_m_using_my_chat_app">Hi there,I\'m using my chat App</string>
+    <string name="default_status">Hi there,I\'m using my chat App.</string>
+</resources>
